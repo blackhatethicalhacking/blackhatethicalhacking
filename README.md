@@ -1,7 +1,7 @@
 <p align="center">
 <p align="center">
   <a href="https://www.blackhatethicalhacking.com">
-    <img src="https://pbs.twimg.com/profile_banners/770898848197795840/1650879597/1500x500" width="400px" height="200" alt="BHEH">
+    <img src="https://pbs.twimg.com/profile_banners/770898848197795840/1650879597/1500x500" width="400px" height="100" alt="BHEH">
   </a>
 </p>
 

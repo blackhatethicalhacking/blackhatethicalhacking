@@ -139,6 +139,27 @@ Working | In Process | Interesting
     📫 How to reach us: info@blackhatethicalhacking.com
 </p></h2>
 
+---
+😄 Follow us:
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/company/black-hat-ethical-hacking" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg" /> LinkedIn</a>
+  </code>
+  <code>
+    <a href="https://twitter.com/secur1ty1samyth" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter.svg" /> Twitter</a>
+  </code>
+  <code>
+    <a href="https://www.instagram.com/blackhatethicalhacking/?hl=en" title="Instagram Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg" /> Instagram</a>
+  </code>
+  <code>
+    <a href="https://www.twitch.tv/bheh1337"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitch.svg" /> Twitch</a>
+  </code>
+  <code>
+    <a href="https://www.youtube.com/channel/UC7-AsunT7zO-ny5-U8glqkw"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/youtube.svg" /> YouTube</a>
+  </code>
+</h5>
+
 <!--
 **blackhatethicalhacking/blackhatethicalhacking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

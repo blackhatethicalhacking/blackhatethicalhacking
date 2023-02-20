@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.blackhatethicalhacking.com">
-    <img src="https://pbs.twimg.com/profile_banners/770898848197795840/1650879597/1500x500" width="400px" height="100" alt="BHEH">
+    <img src="https://pbs.twimg.com/profile_banners/770898848197795840/1650879597/1500x500" width="500px" height="100" alt="BHEH">
   </a>
 </p>
 
@@ -140,7 +140,8 @@ Working | In Process | Interesting
 </p></h2>
 
 ---
-😄 Follow us:
+
+<h2 align="center">Follow us:</h2>
 
 <h5 align="center">
   <code>
@@ -160,11 +161,14 @@ Working | In Process | Interesting
   </code>
 </h5>
 
-# Support
+<h2 align="center">Support us</h2>
 
-If you would like to support us, you can always buy us coffee(s)! :blush:
+<p align="center">
+If you would like to support us, you can always buy us coffee(s)! :blush:  </p>
 
+<p align="center">
 <a href="https://www.buymeacoffee.com/bheh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  </p>
 
 <!--
 **blackhatethicalhacking/blackhatethicalhacking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

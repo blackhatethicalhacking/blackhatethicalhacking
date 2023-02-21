@@ -14,7 +14,6 @@
 
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackhatethicalhacking&theme=monokai)
 
-
 <p align="center">
   <a align="center" href="https://github.com/blackhatethicalhacking" target="_blank"><img src="https://img.shields.io/badge/Github-blackhatethicalhacking-green?style=for-the-badge&logo=github"></a>
 </p>

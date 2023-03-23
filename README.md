@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://www.blackhatethicalhacking.com">
-    <img src="https://pbs.twimg.com/profile_banners/770898848197795840/1650879597/1500x500" width="500px" height="100" alt="BHEH">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/13942386/220196179-678a1651-83ba-4c95-bf93-5374dd7d9022.png" alt="Logo_Green_text" width="400px" height="300">
 </p>
 <p align="center">

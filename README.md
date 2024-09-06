@@ -123,7 +123,7 @@ Working | In Process | Interesting
 
 </div>
 
-<h2 align="center">BHEH Official Merch</h2>
+<a href="https://store.blackhatethicalhacking.com" target="_blank">BHEH Official Merch</a>
 
 <p align="center">
 Introducing our Merch Store, designed for the Offensive Security community. Explore a curated collection of apparel and drinkware, perfect for both professionals and enthusiasts. Our selection includes premium t-shirts, hoodies, and mugs, each featuring bold hacking-themed slogans and graphics that embody the spirit of red teaming and offensive security. 

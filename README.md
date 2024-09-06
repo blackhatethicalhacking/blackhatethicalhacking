@@ -122,7 +122,20 @@ Working | In Process | Interesting
 ![Alt](https://repobeats.axiom.co/api/embed/18ec57dcd76b54ed397de6cd74d9c05d679b9e6e.svg "Repobeats analytics image")
 
 </div>
- 
+
+<h2 align="center">BHEH Official Merch</h2>
+
+<p align="center">
+Introducing our Merch Store, designed for the Offensive Security community. Explore a curated collection of apparel and drinkware, perfect for both professionals and enthusiasts. Our selection includes premium t-shirts, hoodies, and mugs, each featuring bold hacking-themed slogans and graphics that embody the spirit of red teaming and offensive security. 
+Hack with style and showcase your dedication to hacker culture with gear that’s as dynamic and resilient as you are. :blush:
+</p>
+
+<p align="center">
+
+<img src="https://github.com/blackhatethicalhacking/blackhatethicalhacking/blob/main/Merch_Promo.gif" width="540px" height="540">
+  </p>
+
+
 ---
   
   <p align="center">
@@ -150,18 +163,6 @@ Working | In Process | Interesting
     <a href="https://www.youtube.com/channel/UC7-AsunT7zO-ny5-U8glqkw"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/youtube.svg" /> YouTube</a>
   </code>
 </h5>
-
-<h2 align="center">BHEH Official Merch</h2>
-
-<p align="center">
-Introducing our Merch Store, designed for the Offensive Security community. Explore a curated collection of apparel and drinkware, perfect for both professionals and enthusiasts. Our selection includes premium t-shirts, hoodies, and mugs, each featuring bold hacking-themed slogans and graphics that embody the spirit of red teaming and offensive security. 
-Hack with style and showcase your dedication to hacker culture with gear that’s as dynamic and resilient as you are. :blush:
-</p>
-
-<p align="center">
-
-<img src="https://github.com/blackhatethicalhacking/blackhatethicalhacking/blob/main/Merch_Promo.gif" width="540px" height="540">
-  </p>
 
 <!--
 **blackhatethicalhacking/blackhatethicalhacking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

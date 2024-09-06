@@ -160,7 +160,7 @@ Hack with style and showcase your dedication to hacker culture with gear that’
 
 <p align="center">
 
-<img src="https://github.com/blackhatethicalhacking/blackhatethicalhacking/blob/main/Merch_Promo.gif" width="640px" height="640">
+<img src="https://github.com/blackhatethicalhacking/blackhatethicalhacking/blob/main/Merch_Promo.gif" width="540px" height="540">
   </p>
 
 <!--

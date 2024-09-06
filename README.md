@@ -151,13 +151,16 @@ Working | In Process | Interesting
   </code>
 </h5>
 
-<h2 align="center">Support us</h2>
+<h2 align="center">BHEH Official Merch</h2>
 
 <p align="center">
-If you would like to support us, you can always buy us coffee(s)! :blush:  </p>
+Introducing our Merch Store, designed for the Offensive Security community. Explore a curated collection of apparel and drinkware, perfect for both professionals and enthusiasts. Our selection includes premium t-shirts, hoodies, and mugs, each featuring bold hacking-themed slogans and graphics that embody the spirit of red teaming and offensive security. 
+Hack with style and showcase your dedication to hacker culture with gear that’s as dynamic and resilient as you are. :blush:
+</p>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/bheh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  ![Merch_Promo](https://github.com/user-attachments/assets/298c2213-6b3f-4c53-ba2e-a48fc5e1ff43)
+
   </p>
 
 <!--

@@ -159,8 +159,8 @@ Hack with style and showcase your dedication to hacker culture with gear that’
 </p>
 
 <p align="center">
-  ![Merch_Promo](https://github.com/user-attachments/assets/298c2213-6b3f-4c53-ba2e-a48fc5e1ff43)
-
+![Merch_Promo]([https://github.com/blackhatethicalhacking/blackhatethicalhacking/blob/main/Merch_Promo.gif])
+<img src="https://github.com/blackhatethicalhacking/blackhatethicalhacking/blob/main/Merch_Promo.gif" width="400px" height="300">
   </p>
 
 <!--
